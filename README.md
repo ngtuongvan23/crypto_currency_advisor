@@ -23,7 +23,7 @@ Link powpoint: https://thanglongedu-my.sharepoint.com/:p:/g/personal/a46958_than
 > 
 > 
 
-## 3. Engineering Challenges & Solutions (✨ Highlight)
+## 3. Engineering Challenges & Solutions 
 
 Là người chịu trách nhiệm chính luồng dữ liệu thời gian thực `kline_1m`, tôi đã đối mặt và giải quyết các bài toán về Data Streaming:
 
